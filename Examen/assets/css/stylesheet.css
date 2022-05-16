@@ -1,0 +1,18 @@
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+}
+table tr td:last-child{
+    width: 120px;
+}
+
+/* navbar */
+.nav-grey-bg-color{
+color: #a4a7a8;
+}
+
+/* foooter */
+footer{
+    position:fixed;
+    bottom:0;
+}
